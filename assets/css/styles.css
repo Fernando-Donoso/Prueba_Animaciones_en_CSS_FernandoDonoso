@@ -7,25 +7,30 @@
             color: #333;
         }
 
-        h1, h2 {
+        h1{
             margin: 10 0 20px;
             text-align: center;
         }
+
+        h2 {
+            margin: 10 0 20px;
+            text-align:start;
+        }
+
 
         a {
             text-decoration: none;
             color: inherit;
         }
 
-        p   {
-            line-height: 1.6;
-            text-align: center;
-        }
-
         h3 {
             align-items: center;
         }
 
+        h4 {
+            margin-top: 20px;
+            text-align: center;
+        }
         /* ------------------ MENÚ LATERAL ------------------ */
         .sidebar {
             width: 220px;
