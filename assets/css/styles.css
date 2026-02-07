@@ -9,11 +9,17 @@
 
         h1, h2 {
             margin: 10 0 20px;
+            text-align: center;
         }
 
         a {
             text-decoration: none;
             color: inherit;
+        }
+
+        p   {
+            line-height: 1.6;
+            text-align: center;
         }
 
         h3 {
